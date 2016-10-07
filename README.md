@@ -1,0 +1,1 @@
+# cxf-consumer-wildfly
